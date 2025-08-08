@@ -1,6 +1,6 @@
 # 👋 Hola, soy Zin0v
 
-💻 **Desarrollador en formación** | 📍 Argentina  
+💻 **En formación** | 📍 Argentina  
 Me gusta la *ciberseguridad*  
 
 ---
